@@ -22,7 +22,7 @@ This project is a tool for checking whether computers in various projects are pa
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/domain-controller-checker.git
+   git clone https://github.com/enessubasi63/HostnameController.git
    cd domain-controller-checker
    ```
 
@@ -121,7 +121,7 @@ Bu proje, çeşitli projelerdeki bilgisayarların bir domain'e dahil olup olmad�
 
 1. **Depoyu Kopyalayın:**
    ```sh
-   git clone https://github.com/yourusername/domain-controller-checker.git
+   git clone https://github.com/enessubasi63/HostnameController.git
    cd domain-controller-checker
    ```
 
